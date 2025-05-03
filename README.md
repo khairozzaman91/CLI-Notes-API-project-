@@ -10,6 +10,9 @@ This is a simple **CLI application** where users can manage notes through the te
 The application uses **SQLite** for local storage, and **GORM** as the ORM for database interaction.
 
 ---
+## Project Structure
+![image](https://github.com/user-attachments/assets/184b9c61-118a-4689-9149-ef6dd879ccc1)
+
 
 ## Features
 
